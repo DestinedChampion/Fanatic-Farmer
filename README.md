@@ -14,8 +14,8 @@ Fully automated farming, anti-AFK, profit tracking &amp; more! Make 100M+/h AFK 
 # **Installation:**  
 1. Download the latest .jar file from Releases  
 2. Drop it in your Minecraft mods folder  
-3. Launch with Forge/Fabric  
-4. Press F7 (configurable) to open controls  
+3. Launch with your preferd Client  
+5. Press F7 (configurable) to open controls  
 
 # **Alpha Notice:**  
 This is an early version - you might encounter some bugs or missing features. Your feedback helps improve the mod! Report any issues on GitHub.  
