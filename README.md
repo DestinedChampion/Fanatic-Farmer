@@ -1,7 +1,5 @@
-# Fanatic-Farmer
-Fully automated farming, anti-AFK, profit tracking &amp; more! Make 100M+/h AFK with smart pathfinding for all crops. Includes adjustable speeds &amp; replanting.
-
 # **Fanatic Farmer - The Ultimate Automated Farming Mod**  
+  Fully automated farming, anti-AFK, profit tracking &amp; more! Make 100M+/h AFK with smart pathfinding for all crops. Includes adjustable speeds &amp; replanting.
 
 # Simply install like any other mod and enjoy fully automated SkyBlock farming! This powerful tool handles everything from harvesting to replanting while you AFK.  
 
